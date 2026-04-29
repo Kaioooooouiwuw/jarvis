@@ -1,0 +1,137 @@
+{
+  "session_id": "20260420_155231",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-20T15:52:31.020442+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa tarde, Senhor Guilherme. Levando em consideração nossa última conversa sobre o funcionamento da memória, fico à disposição para garantir que todas as suas informações sejam guardadas com a máxima eficiência.\n\nComo posso ajudá-lo hoje, Senhor? Já considerou iniciar alguma tarefa de programação para cumprir seus objetivos deste ano?",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "E aí já avisei, consegue deixar a luz na",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Como desejar, Senhor. Lembro-me perfeitamente do ID da lâmpada do quarto que o Senhor me pediu para guardar.\n\nPorém, \"na\" não é uma cor que eu possa aplicar. Seria \"verde\", \"azul\", ou alguma outra cor específica, Senhor?",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Ya vide, lâmpada.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido. Revertendo para a sua preferência padrão. Considere feito, Senhor. A lâmpada do quarto está agora na cor azul.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Já viceu, o que que eu fique você não trocou a lâmpada do quarto para",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perdão, Senhor, deve ter havido um lapso na comunicação. Considere feito. A lâmpada do quarto está agora na cor azul, conforme sua preferência padrão.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Já vist, ó com a música, espera aí, que eu vou te enviar o nome da música, você percebe para mim, eu fiz.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfeitamente, Senhor. Aguardo o nome da música para realizar a busca e reprodução no YouTube, como prefere.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "toca musica raindance",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Prontamente, Senhor. Iniciando a reprodução de \"Raindance\" no YouTube.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I sóc no queria a música nessa abdominal, eu queria a música anarbol aquí.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido, Senhor. Abrirei uma nova aba para a reprodução.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Pronto. Agora vou pesquisar e tocar a música na nova aba.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Feito, Senhor. A música está sendo reproduzida na nova aba.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "novamente para mim, por favor.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Claro, Senhor. Reiniciando a reprodução de \"Raindance\".",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Iniciando a música novamente.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "toca back in back",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Como quiser, Senhor. Trocando para \"Back in Black\" no YouTube.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Iniciando a reprodução.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "tudo bom jarvis",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Tudo ótimo, Senhor Guilherme! Espero que o seu dia esteja sendo tão produtivo quanto o esperado, com foco em seus objetivos de programação e ENEM, como o Senhor me pediu para lembrar. Em que mais posso auxiliá-lo?",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "deixe a cor da lampada com uma cor futurista",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Uma cor futurista! Excelente ideia, Senhor. Vou aplicar um tom de ciano vibrante para criar essa atmosfera. Considere feito.",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Cor alterada para ciano. Algo mais em que eu possa ajudar no momento?",
+      "timestamp": "2026-04-20T15:52:31.020442+00:00"
+    }
+  ]
+}

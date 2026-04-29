@@ -1,0 +1,37 @@
+{
+  "session_id": "20260427_113259",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-27T11:32:59.533845+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Bom dia, Senhor Guilherme. Segunda-feira, 27 de abril, 14:28. Lembro que na sexta-feira, às 12:26, o senhor conversou comigo sobre a lâmpada do quarto e o ID permanente dela, que guardei na memória. O senhor também mencionou sobre ir ao parque hoje à noite. Está tudo correndo conforme o planejado? Como posso ajudar hoje?",
+      "timestamp": "2026-04-27T11:32:59.533845+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Já aviso inicie todo o controle de gesto completo.",
+      "timestamp": "2026-04-27T11:32:59.533845+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "<ctrl46><ctrl46>",
+      "timestamp": "2026-04-27T11:32:59.533845+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Ja, wie se iniciciou kontrolu di jestu.",
+      "timestamp": "2026-04-27T11:32:59.533845+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido, Senhor. Iniciando todo o sistema de controle por gestos e voz (v4.1). Considere feito.",
+      "timestamp": "2026-04-27T11:32:59.533845+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Prontamente, Senhor Guilherme. O controle de gestos e voz (v4.1) está totalmente ativado. Lembre-se das interações que configuramos, como a pinça para cliques e o punho para arrastar. Posso ajudar em algo mais neste momento?",
+      "timestamp": "2026-04-27T11:32:59.533845+00:00"
+    }
+  ]
+}

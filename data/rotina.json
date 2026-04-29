@@ -1,0 +1,24 @@
+{
+  "tarefas_dia": [
+    {
+      "id": 1,
+      "titulo": "led",
+      "hora": "",
+      "prioridade": "media",
+      "data": "2026-04-02",
+      "concluida": false,
+      "criada_em": "2026-04-02T18:38:28.602460"
+    },
+    {
+      "id": 2,
+      "titulo": "Lembrete para implementação da nova função de notificações.",
+      "hora": "",
+      "prioridade": "media",
+      "data": "2026-04-10",
+      "concluida": false,
+      "criada_em": "2026-04-10T16:31:56.467277"
+    }
+  ],
+  "rotina_padrao": {},
+  "historico": []
+}

@@ -1,0 +1,42 @@
+{
+  "session_id": "20260422_183057",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-22T18:30:57.184404+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa noite, Senhor Guilherme. Lembro-me que me pediu para guardar o ID permanente da lâmpada do quarto para automação, e que seu foco principal este ano é a faculdade, programação e o ENEM. Como posso ser útil hoje?",
+      "timestamp": "2026-04-22T18:30:57.184404+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Ja, ich habe",
+      "timestamp": "2026-04-22T18:30:57.184404+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Sim, Senhor Guilherme. Estou ouvindo. O que deseja?",
+      "timestamp": "2026-04-22T18:30:57.184404+00:00"
+    },
+    {
+      "role": "user",
+      "content": "perdi um amigo meu querido sempre que eu inicia voce lembre pra mim com uma menssagem de carinho o nome dele era jose gleison",
+      "timestamp": "2026-04-22T18:30:57.184404+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Sinto muito pela perda de Jose Gleison, Senhor. É uma dor imensurável. Entendido, guardarei esta memória permanentemente e farei questão de incluir uma mensagem de carinho em nossas saudações, como desejar. Considere feito.",
+      "timestamp": "2026-04-22T18:30:57.184404+00:00"
+    },
+    {
+      "role": "user",
+      "content": "ok faça isso o mais rapido possivel apaga a memoria sobre enem",
+      "timestamp": "2026-04-22T18:30:57.184404+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Compreendido, Senhor. Removendo a memória sobre o ENEM agora. Farei as alterações necessárias para incluir a",
+      "timestamp": "2026-04-22T18:30:57.184404+00:00"
+    }
+  ]
+}

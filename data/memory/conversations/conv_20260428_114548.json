@@ -1,0 +1,22 @@
+{
+  "session_id": "20260428_114548",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-28T11:45:48.259435+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "<ctrl46><ctrl46>",
+      "timestamp": "2026-04-28T11:45:48.259435+00:00"
+    },
+    {
+      "role": "user",
+      "content": "ולייז",
+      "timestamp": "2026-04-28T11:45:48.259435+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá, Senhor Guilherme. Lembro que nossa última conversa foi na segunda-feira, dia 20 de abril. Como posso servi-lo hoje?",
+      "timestamp": "2026-04-28T11:45:48.259435+00:00"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "smartthings": {},
+  "homeassistant": {
+    "luz teste": {
+      "device_id": "light.luz_teste",
+      "tipo": "luz",
+      "comodos": [
+        "sala"
+      ],
+      "adicionado_em": "2026-04-02T17:30:15.480988"
+    },
+    "led bulb w5k": {
+      "device_id": "light.led_bulb_w5k",
+      "tipo": "luz",
+      "comodos": [
+        "sala"
+      ],
+      "adicionado_em": "2026-04-02T18:16:01.193170"
+    }
+  }
+}

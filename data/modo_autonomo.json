@@ -1,0 +1,85 @@
+{
+  "ativo": false,
+  "sessoes": [
+    {
+      "id": 1,
+      "objetivo": "Foco no projeto Roben e estudos",
+      "inicio": "2026-04-02T17:54:48.570075",
+      "duracao_minutos": 30,
+      "fim_previsto": "2026-04-02T18:24:48.570075",
+      "plano": [
+        {
+          "titulo": "Material",
+          "descricao": "Verificar / abrir material de estudo"
+        },
+        {
+          "titulo": "Ambiente",
+          "descricao": "Ativar modo foco + silêncio"
+        },
+        {
+          "titulo": "Absorção",
+          "descricao": "Estudo concentrado do conteúdo"
+        },
+        {
+          "titulo": "Notas",
+          "descricao": "Organizar anotações e resumos"
+        },
+        {
+          "titulo": "Revisão",
+          "descricao": "Revisão espaçada dos pontos-chave"
+        },
+        {
+          "titulo": "Registro",
+          "descricao": "Salvar progresso no conhecimento"
+        }
+      ],
+      "acoes_executadas": [],
+      "status": "ativo",
+      "adaptacoes": []
+    },
+    {
+      "id": 2,
+      "objetivo": "Aprender Inglês",
+      "inicio": "2026-04-09T23:47:24.168298",
+      "duracao_minutos": 30,
+      "fim_previsto": "2026-04-10T00:17:24.168298",
+      "plano": [
+        {
+          "titulo": "Material",
+          "descricao": "Verificar / abrir material de estudo"
+        },
+        {
+          "titulo": "Ambiente",
+          "descricao": "Ativar modo foco + silêncio"
+        },
+        {
+          "titulo": "Absorção",
+          "descricao": "Estudo concentrado do conteúdo"
+        },
+        {
+          "titulo": "Notas",
+          "descricao": "Organizar anotações e resumos"
+        },
+        {
+          "titulo": "Revisão",
+          "descricao": "Revisão espaçada dos pontos-chave"
+        },
+        {
+          "titulo": "Registro",
+          "descricao": "Salvar progresso no conhecimento"
+        }
+      ],
+      "acoes_executadas": [],
+      "status": "finalizado",
+      "adaptacoes": [],
+      "fim_real": "2026-04-09T23:48:49.390334",
+      "tempo_real_minutos": 1.4
+    }
+  ],
+  "acoes_executadas": [],
+  "objetivo_atual": null,
+  "estatisticas": {
+    "total_sessoes": 2,
+    "tempo_total_min": 1.4
+  }
+}

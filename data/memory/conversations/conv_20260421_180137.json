@@ -1,0 +1,22 @@
+{
+  "session_id": "20260421_180137",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-21T18:01:37.268788+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa noite, Senhor Guilherme. Espero que seu dia tenha sido produtivo. Lembro-me do seu foco principal para este ano: **faculdade, programação e ENEM**. Como estão os estudos? A propósito, o ID permanente da lâmpada do quarto (`ebaba4338fe142ed24ndxp`)",
+      "timestamp": "2026-04-21T18:01:37.268788+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis ative o modo controle de gesto e em seguinte ligue a webcam",
+      "timestamp": "2026-04-21T18:01:37.268788+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido, Senhor. Ativando o modo controle de gestos e iniciando o monitoramento por câmera de segurança. Considere feito.",
+      "timestamp": "2026-04-21T18:01:37.268788+00:00"
+    }
+  ]
+}

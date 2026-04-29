@@ -1,0 +1,1264 @@
+{
+  "sessoes": [
+    {
+      "inicio": "2026-04-10T00:02:32.813847",
+      "hora": 0,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T10:58:15.655715",
+      "hora": 10,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T11:04:46.078178",
+      "hora": 11,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T11:08:41.760481",
+      "hora": 11,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T11:11:26.706546",
+      "hora": 11,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T11:13:37.385897",
+      "hora": 11,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T11:17:34.771612",
+      "hora": 11,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T13:33:35.461961",
+      "hora": 13,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T14:05:38.672371",
+      "hora": 14,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T14:07:58.044096",
+      "hora": 14,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T14:09:42.493983",
+      "hora": 14,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T14:45:28.286021",
+      "hora": 14,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T14:45:58.856649",
+      "hora": 14,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T16:11:10.547479",
+      "hora": 16,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T16:15:46.207936",
+      "hora": 16,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-10T16:29:27.005376",
+      "hora": 16,
+      "dia_semana": "Friday",
+      "data": "2026-04-10"
+    },
+    {
+      "inicio": "2026-04-11T18:53:01.648463",
+      "hora": 18,
+      "dia_semana": "Saturday",
+      "data": "2026-04-11"
+    },
+    {
+      "inicio": "2026-04-12T11:11:51.422460",
+      "hora": 11,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T13:18:29.530395+00:00",
+      "hora": 13,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T13:26:53.155051+00:00",
+      "hora": 13,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T13:36:19.495107+00:00",
+      "hora": 13,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T13:36:21.792716+00:00",
+      "hora": 13,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T15:12:01.303647+00:00",
+      "hora": 15,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T15:19:28.322036+00:00",
+      "hora": 15,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T16:18:32.622057+00:00",
+      "hora": 16,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T16:21:20.787619+00:00",
+      "hora": 16,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T17:38:23.939353+00:00",
+      "hora": 17,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T17:43:29.034657+00:00",
+      "hora": 17,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T22:01:30.888371+00:00",
+      "hora": 22,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T22:29:05.325201+00:00",
+      "hora": 22,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T22:29:09.021962+00:00",
+      "hora": 22,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-12T23:55:17.277138+00:00",
+      "hora": 23,
+      "dia_semana": "Sunday",
+      "data": "2026-04-12"
+    },
+    {
+      "inicio": "2026-04-13T00:06:04.897271+00:00",
+      "hora": 0,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T00:08:50.304180+00:00",
+      "hora": 0,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T10:56:32.732272+00:00",
+      "hora": 10,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T10:57:03.112064+00:00",
+      "hora": 10,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T10:58:09.454360+00:00",
+      "hora": 10,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T11:03:15.163027+00:00",
+      "hora": 11,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T11:14:32.143323+00:00",
+      "hora": 11,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T11:16:05.326008+00:00",
+      "hora": 11,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T15:09:49.466861+00:00",
+      "hora": 15,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T15:11:08.823436+00:00",
+      "hora": 15,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T15:12:36.665702+00:00",
+      "hora": 15,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-13T20:40:09.704953+00:00",
+      "hora": 20,
+      "dia_semana": "Monday",
+      "data": "2026-04-13"
+    },
+    {
+      "inicio": "2026-04-14T00:27:28.323888+00:00",
+      "hora": 0,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T11:20:56.620686+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T11:33:39.652836+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T11:39:48.899072+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T11:42:51.437706+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T11:43:05.932626+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T22:11:34.580771+00:00",
+      "hora": 22,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T22:24:31.161541+00:00",
+      "hora": 22,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T22:26:17.313234+00:00",
+      "hora": 22,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T22:29:22.659436+00:00",
+      "hora": 22,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-14T22:48:46.287009+00:00",
+      "hora": 22,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-14"
+    },
+    {
+      "inicio": "2026-04-16T00:48:15.334831+00:00",
+      "hora": 0,
+      "dia_semana": "Thursday",
+      "data": "2026-04-16"
+    },
+    {
+      "inicio": "2026-04-16T01:04:03.433554+00:00",
+      "hora": 1,
+      "dia_semana": "Thursday",
+      "data": "2026-04-16"
+    },
+    {
+      "inicio": "2026-04-16T11:33:25.203682+00:00",
+      "hora": 11,
+      "dia_semana": "Thursday",
+      "data": "2026-04-16"
+    },
+    {
+      "inicio": "2026-04-16T11:53:12.796004+00:00",
+      "hora": 11,
+      "dia_semana": "Thursday",
+      "data": "2026-04-16"
+    },
+    {
+      "inicio": "2026-04-16T12:01:19.023192+00:00",
+      "hora": 12,
+      "dia_semana": "Thursday",
+      "data": "2026-04-16"
+    },
+    {
+      "inicio": "2026-04-17T12:07:52.465278+00:00",
+      "hora": 12,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T12:42:25.468009+00:00",
+      "hora": 12,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T20:40:38.037561+00:00",
+      "hora": 20,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T20:41:50.460359+00:00",
+      "hora": 20,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T20:55:42.915172+00:00",
+      "hora": 20,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T21:08:59.961674+00:00",
+      "hora": 21,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T21:11:14.114864+00:00",
+      "hora": 21,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T21:11:57.095814+00:00",
+      "hora": 21,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T21:33:49.449040+00:00",
+      "hora": 21,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T21:40:08.096189+00:00",
+      "hora": 21,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T22:22:48.626748+00:00",
+      "hora": 22,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-17T22:24:52.183106+00:00",
+      "hora": 22,
+      "dia_semana": "Friday",
+      "data": "2026-04-17"
+    },
+    {
+      "inicio": "2026-04-18T12:00:26.747912+00:00",
+      "hora": 12,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T12:00:35.352717+00:00",
+      "hora": 12,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T12:02:23.739905+00:00",
+      "hora": 12,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T12:08:34.915122+00:00",
+      "hora": 12,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T13:50:06.481608+00:00",
+      "hora": 13,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T14:14:18.577165+00:00",
+      "hora": 14,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T14:22:54.028706+00:00",
+      "hora": 14,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T14:22:57.847087+00:00",
+      "hora": 14,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T14:24:01.022063+00:00",
+      "hora": 14,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T14:24:24.267680+00:00",
+      "hora": 14,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T14:26:22.891076+00:00",
+      "hora": 14,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T14:34:28.408976+00:00",
+      "hora": 14,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-18T20:07:10.028188+00:00",
+      "hora": 20,
+      "dia_semana": "Saturday",
+      "data": "2026-04-18"
+    },
+    {
+      "inicio": "2026-04-19T10:48:18.256366+00:00",
+      "hora": 10,
+      "dia_semana": "Sunday",
+      "data": "2026-04-19"
+    },
+    {
+      "inicio": "2026-04-19T10:48:38.275961+00:00",
+      "hora": 10,
+      "dia_semana": "Sunday",
+      "data": "2026-04-19"
+    },
+    {
+      "inicio": "2026-04-19T11:53:34.713020+00:00",
+      "hora": 11,
+      "dia_semana": "Sunday",
+      "data": "2026-04-19"
+    },
+    {
+      "inicio": "2026-04-19T11:56:04.515998+00:00",
+      "hora": 11,
+      "dia_semana": "Sunday",
+      "data": "2026-04-19"
+    },
+    {
+      "inicio": "2026-04-19T13:30:12.738214+00:00",
+      "hora": 13,
+      "dia_semana": "Sunday",
+      "data": "2026-04-19"
+    },
+    {
+      "inicio": "2026-04-19T23:07:36.261480+00:00",
+      "hora": 23,
+      "dia_semana": "Sunday",
+      "data": "2026-04-19"
+    },
+    {
+      "inicio": "2026-04-20T00:24:31.554547+00:00",
+      "hora": 0,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T00:24:32.267469+00:00",
+      "hora": 0,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T00:27:14.916388+00:00",
+      "hora": 0,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T00:27:23.131023+00:00",
+      "hora": 0,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T00:34:42.690810+00:00",
+      "hora": 0,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T00:34:50.879733+00:00",
+      "hora": 0,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T01:01:57.449927+00:00",
+      "hora": 1,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T01:03:56.191418+00:00",
+      "hora": 1,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T01:15:52.798637+00:00",
+      "hora": 1,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T01:15:58.951877+00:00",
+      "hora": 1,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T02:58:00.471568+00:00",
+      "hora": 2,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T02:58:18.049594+00:00",
+      "hora": 2,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T11:59:01.114543+00:00",
+      "hora": 11,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T12:00:14.261078+00:00",
+      "hora": 12,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T12:02:49.831598+00:00",
+      "hora": 12,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T12:02:50.468999+00:00",
+      "hora": 12,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T12:29:31.227355+00:00",
+      "hora": 12,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T12:39:26.237217+00:00",
+      "hora": 12,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T12:39:30.092640+00:00",
+      "hora": 12,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T12:45:56.344796+00:00",
+      "hora": 12,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T13:09:22.677286+00:00",
+      "hora": 13,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T13:53:59.663004+00:00",
+      "hora": 13,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T15:26:38.055006+00:00",
+      "hora": 15,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T15:26:59.098756+00:00",
+      "hora": 15,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T15:42:45.860485+00:00",
+      "hora": 15,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T15:52:17.238943+00:00",
+      "hora": 15,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T15:52:19.024693+00:00",
+      "hora": 15,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T18:46:39.721770+00:00",
+      "hora": 18,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T18:49:51.964230+00:00",
+      "hora": 18,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T23:07:40.020249+00:00",
+      "hora": 23,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T23:09:25.738982+00:00",
+      "hora": 23,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T23:11:42.461971+00:00",
+      "hora": 23,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T23:21:43.211753+00:00",
+      "hora": 23,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T23:36:12.126938+00:00",
+      "hora": 23,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T23:37:25.600706+00:00",
+      "hora": 23,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-20T23:39:13.655128+00:00",
+      "hora": 23,
+      "dia_semana": "Monday",
+      "data": "2026-04-20"
+    },
+    {
+      "inicio": "2026-04-21T00:06:50.031118+00:00",
+      "hora": 0,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T00:06:53.244827+00:00",
+      "hora": 0,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T00:09:00.673105+00:00",
+      "hora": 0,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T01:10:57.911508+00:00",
+      "hora": 1,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T10:47:13.708765+00:00",
+      "hora": 10,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T10:48:53.065320+00:00",
+      "hora": 10,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T11:12:28.963104+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T11:18:19.439076+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T11:27:53.354670+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T11:28:03.484478+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T12:01:36.885030+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T12:40:50.387243+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T12:47:47.883243+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T12:52:21.553426+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T12:52:30.042634+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T12:58:32.736777+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T12:58:33.000985+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T13:05:44.531988+00:00",
+      "hora": 13,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T13:13:08.108722+00:00",
+      "hora": 13,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T13:13:08.874957+00:00",
+      "hora": 13,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T13:27:01.670707+00:00",
+      "hora": 13,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T13:50:38.273779+00:00",
+      "hora": 13,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:02:53.546346+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:06:25.814527+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:10:39.926403+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:11:04.123616+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:11:29.033436+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:11:30.519898+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:24:20.844603+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:33:11.761799+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:34:01.961339+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:35:43.311113+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T14:35:50.646888+00:00",
+      "hora": 14,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T17:50:31.512001+00:00",
+      "hora": 17,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T17:54:59.661715+00:00",
+      "hora": 17,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T18:00:28.190538+00:00",
+      "hora": 18,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T18:01:21.540878+00:00",
+      "hora": 18,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-21T18:01:26.391696+00:00",
+      "hora": 18,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-21"
+    },
+    {
+      "inicio": "2026-04-22T18:26:59.767032+00:00",
+      "hora": 18,
+      "dia_semana": "Wednesday",
+      "data": "2026-04-22"
+    },
+    {
+      "inicio": "2026-04-22T18:27:59.660756+00:00",
+      "hora": 18,
+      "dia_semana": "Wednesday",
+      "data": "2026-04-22"
+    },
+    {
+      "inicio": "2026-04-22T18:30:47.804131+00:00",
+      "hora": 18,
+      "dia_semana": "Wednesday",
+      "data": "2026-04-22"
+    },
+    {
+      "inicio": "2026-04-22T21:48:47.437206+00:00",
+      "hora": 21,
+      "dia_semana": "Wednesday",
+      "data": "2026-04-22"
+    },
+    {
+      "inicio": "2026-04-22T21:59:00.744503+00:00",
+      "hora": 21,
+      "dia_semana": "Wednesday",
+      "data": "2026-04-22"
+    },
+    {
+      "inicio": "2026-04-22T22:03:00.350765+00:00",
+      "hora": 22,
+      "dia_semana": "Wednesday",
+      "data": "2026-04-22"
+    },
+    {
+      "inicio": "2026-04-22T22:10:43.231376+00:00",
+      "hora": 22,
+      "dia_semana": "Wednesday",
+      "data": "2026-04-22"
+    },
+    {
+      "inicio": "2026-04-24T12:19:35.677300+00:00",
+      "hora": 12,
+      "dia_semana": "Friday",
+      "data": "2026-04-24"
+    },
+    {
+      "inicio": "2026-04-24T12:26:11.550597+00:00",
+      "hora": 12,
+      "dia_semana": "Friday",
+      "data": "2026-04-24"
+    },
+    {
+      "inicio": "2026-04-24T12:30:19.623139+00:00",
+      "hora": 12,
+      "dia_semana": "Friday",
+      "data": "2026-04-24"
+    },
+    {
+      "inicio": "2026-04-25T19:24:32.320995+00:00",
+      "hora": 19,
+      "dia_semana": "Saturday",
+      "data": "2026-04-25"
+    },
+    {
+      "inicio": "2026-04-27T11:28:41.949447+00:00",
+      "hora": 11,
+      "dia_semana": "Monday",
+      "data": "2026-04-27"
+    },
+    {
+      "inicio": "2026-04-28T06:13:11.787507+00:00",
+      "hora": 6,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T06:28:07.020715+00:00",
+      "hora": 6,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T06:34:36.626154+00:00",
+      "hora": 6,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T06:47:48.963984+00:00",
+      "hora": 6,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T11:06:06.081825+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T11:08:12.421544+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T11:26:42.624979+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T11:34:37.714585+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T11:48:17.088631+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T11:49:29.021773+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T11:52:11.214301+00:00",
+      "hora": 11,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T12:03:44.906961+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T12:23:55.848299+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T12:24:44.949293+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T12:32:45.149629+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T12:45:30.654563+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T12:49:04.803685+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T12:53:26.729268+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T12:53:28.368142+00:00",
+      "hora": 12,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T13:24:24.868440+00:00",
+      "hora": 13,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T13:25:15.530808+00:00",
+      "hora": 13,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T20:42:42.329825+00:00",
+      "hora": 20,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    },
+    {
+      "inicio": "2026-04-28T20:44:12.643814+00:00",
+      "hora": 20,
+      "dia_semana": "Tuesday",
+      "data": "2026-04-28"
+    }
+  ],
+  "acoes_frequentes": {},
+  "horarios_ativos": {
+    "8": 2,
+    "9": 9,
+    "10": 2,
+    "11": 7,
+    "12": 1
+  },
+  "projetos_recentes": [],
+  "padroes_detectados": [],
+  "acoes": {
+    "pesquisar_na_web": 37,
+    "desenvolvimento": 1,
+    "gerenciar_arquivos": 11,
+    "tocar_musica": 7,
+    "gerenciar_programa": 20,
+    "enviar_whatsapp": 50,
+    "controle_desktop": 20,
+    "editor_vscode": 6,
+    "dispositivo_tuya": 112,
+    "gerar_imagem": 5,
+    "dev_autonomo": 1,
+    "clima_e_deslocamento": 6,
+    "sistema_alarme": 8
+  },
+  "horarios": {
+    "19": 14,
+    "20": 23,
+    "21": 20,
+    "22": 15,
+    "16": 14,
+    "17": 9,
+    "18": 16,
+    "10": 25,
+    "14": 28,
+    "15": 23,
+    "0": 15,
+    "1": 20,
+    "11": 35,
+    "12": 37,
+    "13": 17,
+    "23": 11,
+    "2": 2,
+    "6": 4
+  },
+  "dias_semana": {
+    "Wednesday": 23,
+    "Thursday": 40,
+    "Friday": 53,
+    "Saturday": 42,
+    "Sunday": 25,
+    "Monday": 64,
+    "Tuesday": 81
+  },
+  "padroes": [],
+  "streaks": {
+    "atual": 2,
+    "ultimo_dia": "2026-04-28",
+    "recorde": 14
+  }
+}

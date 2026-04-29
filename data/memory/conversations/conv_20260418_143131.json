@@ -1,0 +1,37 @@
+{
+  "session_id": "20260418_143131",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-18T14:31:31.656285+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa tarde, Senhor Guilherme. Pelo horário, imagino que",
+      "timestamp": "2026-04-18T14:31:31.656285+00:00"
+    },
+    {
+      "role": "user",
+      "content": ".",
+      "timestamp": "2026-04-18T14:31:31.656285+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Jabs",
+      "timestamp": "2026-04-18T14:31:31.656285+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Javis.",
+      "timestamp": "2026-04-18T14:31:31.656285+00:00"
+    },
+    {
+      "role": "user",
+      "content": "ජාවිස් හොලා ආශාවක්.",
+      "timestamp": "2026-04-18T14:31:31.656285+00:00"
+    },
+    {
+      "role": "user",
+      "content": ".",
+      "timestamp": "2026-04-18T14:31:31.656285+00:00"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "monitorando": false,
+  "intervalo_segundos": 10,
+  "resumir_automaticamente": true,
+  "ignorar_apps": [
+    "Windows Security"
+  ],
+  "ultimo_check": "2026-04-28T20:44:16.500263+00:00"
+}

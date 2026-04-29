@@ -1,0 +1,32 @@
+{
+  "session_id": "20260420_120030",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-20T12:00:30.367520+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Bom dia, Senhor Guilherme. Na nossa última conversa, o Senhor estava configurando a lâmpada do quarto, se bem me recordo. A propósito, como estão os estudos para a faculdade, a programação e o ENEM, que o Senhor mencionou serem seu foco principal este ano? Como posso auxiliá-lo hoje?",
+      "timestamp": "2026-04-20T12:00:30.367520+00:00"
+    },
+    {
+      "role": "user",
+      "content": "já conseguem",
+      "timestamp": "2026-04-20T12:00:30.367520+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Com certeza, Senhor. Lembro-me do ID permanente da lâmpada do quarto. Farei",
+      "timestamp": "2026-04-20T12:00:30.367520+00:00"
+    },
+    {
+      "role": "user",
+      "content": "já vi se você lembra que é meu tio.",
+      "timestamp": "2026-04-20T12:00:30.367520+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Se me recordo bem, Senhor, o seu tio é João Pedro. Está correto?",
+      "timestamp": "2026-04-20T12:00:30.367520+00:00"
+    }
+  ]
+}

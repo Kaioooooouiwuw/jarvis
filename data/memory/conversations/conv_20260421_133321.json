@@ -1,0 +1,12 @@
+{
+  "session_id": "20260421_133321",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-21T13:33:21.616237+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa tarde, Senhor Guilherme. Pelo que me recordo das nossas últimas conversas, o Senhor guardou memórias sobre o foco principal do ano e o ID da lâmpada do quarto, para que eu possa controlá-la automaticamente. Lembro-me também que mencionou que iria ao parque hoje à noite. Como foi a sua tarde? Em que posso auxiliá-lo hoje?",
+      "timestamp": "2026-04-21T13:33:21.616237+00:00"
+    }
+  ]
+}

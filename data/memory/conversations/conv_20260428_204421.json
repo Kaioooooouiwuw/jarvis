@@ -1,0 +1,22 @@
+{
+  "session_id": "20260428_204421",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-28T20:44:21.426477+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa noite, Senhor Guilherme. Lembro que hoje, às 12:41, o senhor conversou comigo sobre a lâmpada do quarto. E, como o senhor me pediu para guardar, também me recordo que o senhor iria ao parque hoje à noite. Como posso ajudar o senhor agora?",
+      "timestamp": "2026-04-28T20:44:21.426477+00:00"
+    },
+    {
+      "role": "user",
+      "content": "e aí já você pode explicar para o Psiu aqui do curso para vender o sistema sobre AP .",
+      "timestamp": "2026-04-28T20:44:21.426477+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certamente, Senhor. No entanto, o termo \"AP\" e \"controle de night\" podem ter múltiplos significados no contexto de um curso para vendas de sistemas. Poderia, por favor, detalhar um pouco mais o que o senhor gostaria de explicar para o pessoal?",
+      "timestamp": "2026-04-28T20:44:21.426477+00:00"
+    }
+  ]
+}

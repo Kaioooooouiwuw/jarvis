@@ -1,0 +1,22 @@
+{
+  "session_id": "20260428_063639",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-28T06:36:39.220800+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Bom dia, Senhor Guilherme. Lembro que na segunda-feira, dia 20 de abril, o senhor me perguntou sobre como eu guardo as memórias e me lembrou do seu foco principal para este ano: faculdade, programação e ENEM. Como está o progresso nessas frentes? E, a propósito, conseguiu ir ao parque na noite do dia 14, como havia planejado? Em que posso auxiliá-lo hoje?",
+      "timestamp": "2026-04-28T06:36:39.220800+00:00"
+    },
+    {
+      "role": "user",
+      "content": "oi jarvis",
+      "timestamp": "2026-04-28T06:36:39.220800+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá, Senhor Guilherme. Em que posso servi-lo nesta manhã?",
+      "timestamp": "2026-04-28T06:36:39.220800+00:00"
+    }
+  ]
+}

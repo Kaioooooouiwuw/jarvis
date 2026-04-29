@@ -1,0 +1,32 @@
+{
+  "session_id": "20260420_123356",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-20T12:33:56.448671+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa tarde, Senhor Guilherme. Na nossa última conversa, o Senhor mencionou que eu deveria lembrar do seu tio, João Pedro. Confirmo que a informação está guardada. Como posso auxiliá-lo hoje?",
+      "timestamp": "2026-04-20T12:33:56.449358+00:00"
+    },
+    {
+      "role": "user",
+      "content": "sim",
+      "timestamp": "2026-04-20T12:33:56.449358+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfeito, Senhor. Em que tipo de tarefa o Senhor está trabalhando?",
+      "timestamp": "2026-04-20T12:33:56.449358+00:00"
+    },
+    {
+      "role": "user",
+      "content": "em varias tarefas jarvis",
+      "timestamp": "2026-04-20T12:33:56.449358+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido. Lembro-me que seu foco principal este ano inclui a faculdade, programação e o ENEM. Gostaria de verificar o status de algum objetivo específico ou ativar o modo Foco para otimizar sua produtividade?",
+      "timestamp": "2026-04-20T12:33:56.449358+00:00"
+    }
+  ]
+}

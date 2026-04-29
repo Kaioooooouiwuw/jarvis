@@ -1,0 +1,12 @@
+{
+  "habilitado": true,
+  "volume": 0.7,
+  "sfx_mapeamento": {
+    "comando_iniciado": "sonoro.mp3",
+    "comando_concluido": "sonoro.mp3",
+    "erro_detectado": "sonoro.mp3",
+    "audio_corrigido": "sonoro.mp3"
+  },
+  "reproducoes_totais": 1008,
+  "ultimo_sfx": "sonoro.mp3"
+}

@@ -1,0 +1,19 @@
+:root { --primary: #6C63FF; --bg: #0A0A12; --card: #14142B; --text: #F5F5FA; --sec: #8888AA; --font: 'Inter', sans-serif; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { font-family: var(--font); background: var(--bg); color: var(--text); line-height: 1.7; }
+.header { position: fixed; top: 0; width: 100%; padding: 1rem 2rem; backdrop-filter: blur(20px); background: rgba(10,10,18,.85); z-index: 100; border-bottom: 1px solid rgba(255,255,255,.06); }
+.nav { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+.logo { font-size: 1.5rem; font-weight: 800; background: linear-gradient(135deg, var(--primary), #E040FB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.nav-links { display: flex; list-style: none; gap: 2rem; }
+.nav-links a { text-decoration: none; color: var(--sec); transition: .3s; }
+.nav-links a:hover { color: var(--primary); }
+.hero { min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 2rem; }
+.hero h1 { font-size: 4rem; font-weight: 800; background: linear-gradient(135deg, var(--primary), #E040FB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1rem; }
+.hero p { color: var(--sec); font-size: 1.2rem; margin-bottom: 2rem; max-width: 600px; }
+.btn-primary { padding: .85rem 2.2rem; background: linear-gradient(135deg, var(--primary), #E040FB); border: none; border-radius: 50px; color: #fff; font-size: 1rem; font-weight: 600; cursor: pointer; transition: .3s; }
+.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 10px 30px rgba(108,99,255,.3); }
+.section { max-width: 1200px; margin: 0 auto; padding: 6rem 2rem; }
+.section h2 { font-size: 2.5rem; margin-bottom: 1rem; background: linear-gradient(135deg, var(--primary), #E040FB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.footer { text-align: center; padding: 2rem; border-top: 1px solid rgba(255,255,255,.06); color: var(--sec); }
+@media (max-width: 768px) { .hero h1 { font-size: 2.5rem; } }

@@ -1,0 +1,17 @@
+[
+  {
+    "tipo": "abrir_vscode",
+    "descricao": "Abriu: workspace atual",
+    "timestamp": "2026-04-14T11:27:52.519543+00:00"
+  },
+  {
+    "tipo": "abrir_pasta",
+    "descricao": "C:\\Users\\round\\Downloads\\variaveis",
+    "timestamp": "2026-04-14T11:38:06.383752+00:00"
+  },
+  {
+    "tipo": "criar_arquivo",
+    "descricao": "exemplo_2_0.py (0 chars)",
+    "timestamp": "2026-04-14T11:38:58.830221+00:00"
+  }
+]

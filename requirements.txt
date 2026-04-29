@@ -1,0 +1,43 @@
+# ─── LiveKit Core ───────────────────────
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+
+# ─── Memória e IA ──────────────────────
+mem0ai
+duckduckgo-search
+langchain_community
+
+# ─── Web e Requests ────────────────────
+requests
+python-dotenv
+playwright
+yt-dlp
+
+# ─── Sistema Windows ──────────────────
+pycaw
+comtypes
+screen_brightness_control
+pygetwindow
+pyautogui
+pyperclip
+
+# ─── Gestos Híbrido (MediaPipe + Voz + Palmas) ───
+opencv-python
+mediapipe==0.10.18
+protobuf>=5.29.6
+PyAudio
+SpeechRecognition
+
+# ─── SFX (Efeitos Sonoros) ────────────
+pygame
+
+# ─── Segurança Ética ──────────────────
+aiohttp
+python-nmap
+
+# ─── Segurança com Câmera (Reconhecimento Facial) ───
+face_recognition
+ultralytics

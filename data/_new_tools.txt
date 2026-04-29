@@ -1,0 +1,131 @@
+
+    # ═══════════════════════════════════════════
+    # TOOL 28 — CLIMA E DESLOCAMENTO
+    # ═══════════════════════════════════════════
+
+    @agents.function_tool
+    async def clima_e_deslocamento(self, acao: str, cidade: str = "",
+                                    cidade_origem: str = "", cidade_destino: str = "",
+                                    origem_lat: float = 0.0, origem_lon: float = 0.0,
+                                    destino_lat: float = 0.0, destino_lon: float = 0.0,
+                                    perfil: str = "driving-car"):
+        """Consulta clima e calcula rotas de deslocamento.
+        acao: clima (consulta clima de uma cidade),
+              clima_coordenadas (clima por lat/lon),
+              deslocamento (calcula rota entre coordenadas),
+              deslocamento_cidades (calcula rota entre cidades por nome),
+              historico (historico de consultas).
+        cidade: nome da cidade para clima (ex: Itambe, Pedras de Fogo, Recife).
+        cidade_origem, cidade_destino: nomes para rota (ex: Itambe, Pedras de Fogo).
+        origem_lat, origem_lon, destino_lat, destino_lon: coordenadas para rota.
+        perfil: carro, bicicleta, a pe (padrao: carro)."""
+        self._sfx_comando("comando_iniciado")
+        try:
+            registrar_evento("clima_deslocamento", f"{acao}: {cidade or cidade_origem or ''}")
+            registrar_acao("clima_e_deslocamento", acao)
+
+            if acao == "clima":
+                if not cidade:
+                    return "Senhor, preciso do nome da cidade para consultar o clima."
+                resultado = await asyncio.to_thread(_consultar_clima, cidade)
+                self._sfx_comando("comando_concluido")
+                return resultado
+
+            elif acao == "clima_coordenadas":
+                resultado = await asyncio.to_thread(_consultar_clima_coords, origem_lat, origem_lon)
+                self._sfx_comando("comando_concluido")
+                return resultado
+
+            elif acao == "deslocamento":
+                if origem_lat == 0.0 and origem_lon == 0.0:
+                    return "Senhor, preciso das coordenadas de origem."
+                resultado = await asyncio.to_thread(
+                    _calcular_deslocamento,
+                    origem_lat, origem_lon,
+                    destino_lat, destino_lon,
+                    perfil
+                )
+                self._sfx_comando("comando_concluido")
+                return resultado
+
+            elif acao == "deslocamento_cidades":
+                if not cidade_origem or not cidade_destino:
+                    return "Senhor, preciso dos nomes da cidade de origem e destino."
+                resultado = await asyncio.to_thread(
+                    _calcular_deslocamento_cidades,
+                    cidade_origem, cidade_destino, perfil
+                )
+                self._sfx_comando("comando_concluido")
+                return resultado
+
+            elif acao == "historico":
+                resultado = await asyncio.to_thread(_historico_clima)
+                return resultado
+
+            return f"Acao '{acao}' nao reconhecida. Use: clima, deslocamento, deslocamento_cidades, historico."
+
+        except Exception as e:
+            self._sfx_comando("erro_detectado")
+            return f"Erro na consulta de clima/deslocamento: {e}"
+
+    # ═══════════════════════════════════════════
+    # TOOL 29 — SISTEMA DE ALARMES
+    # ═══════════════════════════════════════════
+
+    @agents.function_tool
+    async def sistema_alarme(self, acao: str, horario: str = "",
+                              descricao: str = "Alarme", indice: int = -1):
+        """Sistema de alarmes avancado com ativacao por palavra-chave.
+        acao: definir (cria alarme - horario pode ser '07:30', 'amanha 8h', 'daqui 30 min', '6 da manha'),
+              remover (remove alarme pelo indice),
+              listar (lista alarmes ativos),
+              parar (interrompe alarme tocando),
+              status (informacoes do sistema),
+              iniciar_keyword (ativa deteccao da palavra 'Jarvis'),
+              parar_keyword (desativa deteccao),
+              status_keyword (status da deteccao por voz).
+        horario: para acao=definir - aceita linguagem natural.
+        descricao: descricao do alarme.
+        indice: para acao=remover (0-based, -1 = ultimo)."""
+        self._sfx_comando("comando_iniciado")
+        try:
+            registrar_evento("alarme", f"{acao}: {horario or descricao}")
+            registrar_acao("sistema_alarme", acao)
+
+            if acao == "definir":
+                if not horario:
+                    return "Senhor, preciso do horario para definir o alarme."
+                resultado = await asyncio.to_thread(_definir_alarme, horario, descricao)
+                self._sfx_comando("comando_concluido")
+                return resultado
+
+            elif acao == "remover":
+                resultado = await asyncio.to_thread(_remover_alarme, indice)
+                self._sfx_comando("comando_concluido")
+                return resultado
+
+            elif acao == "listar":
+                return await asyncio.to_thread(_listar_alarmes)
+
+            elif acao == "parar":
+                resultado = await asyncio.to_thread(_parar_alarme)
+                return resultado
+
+            elif acao == "status":
+                return await asyncio.to_thread(_status_alarmes)
+
+            elif acao == "iniciar_keyword":
+                return await asyncio.to_thread(_iniciar_keyword, "jarvis")
+
+            elif acao == "parar_keyword":
+                return await asyncio.to_thread(_parar_keyword)
+
+            elif acao == "status_keyword":
+                return await asyncio.to_thread(_status_keyword)
+
+            return f"Acao '{acao}' nao reconhecida. Use: definir, remover, listar, parar, status, iniciar_keyword."
+
+        except Exception as e:
+            self._sfx_comando("erro_detectado")
+            return f"Erro no sistema de alarmes: {e}"
+

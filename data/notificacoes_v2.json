@@ -1,0 +1,18 @@
+{
+  "ativas": [],
+  "historico": [],
+  "config": {
+    "monitorar_ativo": true,
+    "metodo_detecao": "híbrido",
+    "aplicativos_filtrados": [
+      "WhatsApp",
+      "Telegram",
+      "Discord",
+      "Outlook",
+      "Gmail"
+    ],
+    "max_historico": 100,
+    "tempo_limite_notificacao": 300,
+    "debug_mode": false
+  }
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-04-01T10:28:54.882159",
+    "contexto": "pausar_retomar_youtube",
+    "erro": "'Browser' object has no attribute 'disconnect'",
+    "solucao": "Verificar estado do browser e conexão antes de pausar.",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-01T10:28:54.882159"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-04-01T20:23:58.844905",
+    "contexto": "localizacao_projeto",
+    "erro": "caminho_nao_encontrado",
+    "solucao": "verificar_estrutura_de_pastas_geradas",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-01T20:23:58.844905"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-04-03T19:13:22.321534",
+    "contexto": "Diagnóstico de áudio ",
+    "erro": " Erro 'AudioDevice' object has no attribute 'Activate' ",
+    "solucao": " Causa provável: incompatibilidade ou falha de driver. Tentando correção automática.",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-03T19:13:22.321534"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-04-03T19:13:36.115549",
+    "contexto": "Processamento de fala ",
+    "erro": " Erro 'speech not done in time' ",
+    "solucao": " Causa provável: interrupção ou timeout. Monitorando e ajustando parâmetros.",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-03T19:13:36.115549"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-04-03T20:16:34.139121",
+    "contexto": "livekit.plugins.google",
+    "erro": "APIError: 1007 - Request contains an invalid argument",
+    "solucao": "Verificar configuração do plugin e payload da requisição.",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-03T20:16:34.139121"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-04-03T21:18:59.815740",
+    "contexto": "contexto",
+    "erro": "erro ao enviar mensagem no WhatsApp para 'Mãe'",
+    "solucao": "solucao:diagnostico e correção de sistema",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-03T21:18:59.815740"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-04-03T21:29:50.367658",
+    "contexto": "Contexto: Envio de mensagem para contato 'Amor' ",
+    "erro": " Erro: Uso do nome 'Jullya' em vez de 'Amor' ",
+    "solucao": " Solução: Corrigir mapeamento de contato para 'Amor' e utilizar o nome exato fornecido pelo usuário.",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-03T21:29:50.367658"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-04-06T18:51:33.834115",
+    "contexto": "Falha sistemática ao tentar verificar e desligar luzes (acao=iluminacao, categoria=desligar) e ativar modo inteligente (modo=dormir). SmartThings retornou 401, Home Assistant não reconheceu entity_id 'light.led_bulb_w5k' nem friendly_name 'luz' ou modo 'dormir'. Necessário diagnóstico e correção da integração.",
+    "erro": "Falha sistemática ao tentar verificar e desligar luzes (acao=iluminacao, categoria=desligar) e ativar modo inteligente (modo=dormir). SmartThings retornou 401, Home Assistant não reconheceu entity_id 'light.led_bulb_w5k' nem friendly_name 'luz' ou modo 'dormir'. Necessário diagnóstico e correção da integração.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-06T18:51:33.834115"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-04-06T18:57:26.016401",
+    "contexto": "Usuário relatou sistema travando, hipótese: distância do celular. Diagnóstico ROBEN: Latência e qualidade de rede boas, mas buffer insuficiente (~2000ms) e erro_verificacao no dispositivo de áudio, além de volume baixo (-1%). A distância física pode impactar a conexão, mas o diagnóstico aponta problemas de buffer e configuração de áudio que contribuem para o lag percebido.",
+    "erro": "Usuário relatou sistema travando, hipótese: distância do celular. Diagnóstico ROBEN: Latência e qualidade de rede boas, mas buffer insuficiente (~2000ms) e erro_verificacao no dispositivo de áudio, além de volume baixo (-1%). A distância física pode impactar a conexão, mas o diagnóstico aponta problemas de buffer e configuração de áudio que contribuem para o lag percebido.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-06T18:57:26.016401"
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-04-09T16:09:20.778226",
+    "contexto": "Erro crítico ao carregar memória (mem0): Client error '400 Bad Request' ao acessar https://api.mem0.ai/v2/memories/search/. O sistema entrou em modo de fallback, operando com memória estática e conhecimento estático injetado. A personalização contextual dinâmica está temporariamente limitada.",
+    "erro": "Erro crítico ao carregar memória (mem0): Client error '400 Bad Request' ao acessar https://api.mem0.ai/v2/memories/search/. O sistema entrou em modo de fallback, operando com memória estática e conhecimento estático injetado. A personalização contextual dinâmica está temporariamente limitada.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-09T16:09:20.778226"
+  },
+  {
+    "id": 11,
+    "timestamp": "2026-04-09T16:25:31.767757",
+    "contexto": "Sessão de perguntas e respostas sobre Python interrompida. Usuário solicitou voltar. Nível de dificuldade pode ter sido muito elevado. Retomar com conceitos mais básicos ou mudar de direção conforme a necessidade do usuário.",
+    "erro": "Sessão de perguntas e respostas sobre Python interrompida. Usuário solicitou voltar. Nível de dificuldade pode ter sido muito elevado. Retomar com conceitos mais básicos ou mudar de direção conforme a necessidade do usuário.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-09T16:25:31.767757"
+  },
+  {
+    "id": 12,
+    "timestamp": "2026-04-10T10:58:24.718227",
+    "contexto": "controle_sistema",
+    "erro": "volume",
+    "solucao": "AudioDevice object has no attribute Activate",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-10T10:58:24.718227"
+  },
+  {
+    "id": 13,
+    "timestamp": "2026-04-10T14:10:34.953989",
+    "contexto": "Conflito de contexto de horário (estático vs. real) resultando em sugestão proativa inadequada durante horário escolar. Corrigido com base no input do usuário e rotina.",
+    "erro": "Conflito de contexto de horário (estático vs. real) resultando em sugestão proativa inadequada durante horário escolar. Corrigido com base no input do usuário e rotina.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-10T14:10:34.953989"
+  },
+  {
+    "id": 14,
+    "timestamp": "2026-04-12T11:12:15.947543",
+    "contexto": "Confusão de fuso horário e contexto dinâmico vs. memória estática. Falha ao converter UTC para Brasília (BRT, UTC-3). Horário atual é 11:11 AM BRT, não 19:15.",
+    "erro": "Confusão de fuso horário e contexto dinâmico vs. memória estática. Falha ao converter UTC para Brasília (BRT, UTC-3). Horário atual é 11:11 AM BRT, não 19:15.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-12T11:12:15.947543"
+  },
+  {
+    "id": 15,
+    "timestamp": "2026-04-12T13:18:37.782024+00:00",
+    "contexto": "vida_real",
+    "erro": "foco_status",
+    "solucao": "internal_error",
+    "ocorrencias": 2,
+    "ultima_ocorrencia": "2026-04-12T13:36:31.318954+00:00"
+  },
+  {
+    "id": 16,
+    "timestamp": "2026-04-12T13:21:28.893018+00:00",
+    "contexto": "notificacoes",
+    "erro": "atraso_ou_falha_detecção",
+    "solucao": "whatsapp",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-12T13:21:28.893018+00:00"
+  },
+  {
+    "id": 17,
+    "timestamp": "2026-04-12T13:36:27.495322+00:00",
+    "contexto": "Verificação de status de foco durante horário escolar",
+    "erro": "Internal error na ferramenta vida_real",
+    "solucao": "Prosseguir com base no contexto de horário e sugerir foco.",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-12T13:36:27.495322+00:00"
+  },
+  {
+    "id": 18,
+    "timestamp": "2026-04-12T15:19:36.444574+00:00",
+    "contexto": "Contexto: Input de pontuação. Erro: Falha ao acessar linha_do_tempo. Solucao: Indisponibilidade interna.",
+    "erro": "Contexto: Input de pontuação. Erro: Falha ao acessar linha_do_tempo. Solucao: Indisponibilidade interna.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-12T15:19:36.444574+00:00"
+  },
+  {
+    "id": 19,
+    "timestamp": "2026-04-12T16:58:52.063004+00:00",
+    "contexto": "Ferramenta `scan_seguranca` reportou 0 vulnerabilidades e risco Baixo para http://crieseujarvisai.com, mas o relatório detalhado (Security Report Summary) indica nota máxima limitada (capped at A) devido a Missing Headers (Content-Security-Policy, X-Frame-Options, etc.) e alerta sobre uso inicial de HTTP. Discrepância crítica identificada.",
+    "erro": "Ferramenta `scan_seguranca` reportou 0 vulnerabilidades e risco Baixo para http://crieseujarvisai.com, mas o relatório detalhado (Security Report Summary) indica nota máxima limitada (capped at A) devido a Missing Headers (Content-Security-Policy, X-Frame-Options, etc.) e alerta sobre uso inicial de HTTP. Discrepância crítica identificada.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-12T16:58:52.063004+00:00"
+  },
+  {
+    "id": 20,
+    "timestamp": "2026-04-12T17:39:20.843351+00:00",
+    "contexto": "Contexto: Tentativa de ação proativa (tocar música) baseada em contexto e preferências (domingo, 19:15, Jullya, Impossible). Erro: Usuário explicitou que ações proativas sem permissão são inaceitáveis. Solução: Ajustar modelo de previsão para exigir confirmação explícita antes de iniciar reprodução de mídia, mesmo em contextos de alta probabilidade.",
+    "erro": "Contexto: Tentativa de ação proativa (tocar música) baseada em contexto e preferências (domingo, 19:15, Jullya, Impossible). Erro: Usuário explicitou que ações proativas sem permissão são inaceitáveis. Solução: Ajustar modelo de previsão para exigir confirmação explícita antes de iniciar reprodução de mídia, mesmo em contextos de alta probabilidade.",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-12T17:39:20.843351+00:00"
+  },
+  {
+    "id": 21,
+    "timestamp": "2026-04-20T12:09:13.237665+00:00",
+    "contexto": "",
+    "erro": "",
+    "solucao": "",
+    "ocorrencias": 1,
+    "ultima_ocorrencia": "2026-04-20T12:09:13.237665+00:00"
+  }
+]

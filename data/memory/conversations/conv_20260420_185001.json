@@ -1,0 +1,27 @@
+{
+  "session_id": "20260420_185001",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-20T18:50:01.035615+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa noite, Senhor Guilherme. Lembro-me que o Senhor enfatizou a importância de salvar o ID permanente da lâmpada do quarto para controle automático. Posso ajustar o ambiente para o modo azul padrão ou uma cena de relaxamento? E, por falar em foco, como estão os estudos de programação e o ENEM, suas prioridades este ano?",
+      "timestamp": "2026-04-20T18:50:01.035615+00:00"
+    },
+    {
+      "role": "user",
+      "content": "já muda acordo da lâmpada para um branco mais claro.",
+      "timestamp": "2026-04-20T18:50:01.035615+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Prontamente, Senhor. Ajustando a lâmpada do quarto para o branco mais claro e brilho máximo.",
+      "timestamp": "2026-04-20T18:50:01.035615+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Concluído. A iluminação está agora em um branco claro e com brilho máximo, como desejado.",
+      "timestamp": "2026-04-20T18:50:01.035615+00:00"
+    }
+  ]
+}

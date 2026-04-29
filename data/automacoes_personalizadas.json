@@ -1,0 +1,15 @@
+{
+  "luz": {
+    "nome": "luz",
+    "gatilho": "",
+    "acoes": [
+      {
+        "tipo": "iluminacao",
+        "acao": 1,
+        "dispositivo": "quarto"
+      }
+    ],
+    "criada_em": "2026-04-03T20:01:24.963087",
+    "ativa": true
+  }
+}

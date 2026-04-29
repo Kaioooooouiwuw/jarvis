@@ -1,0 +1,102 @@
+{
+  "sessoes": [
+    {
+      "id": 1,
+      "inicio": "2026-04-02T21:35:06.359423",
+      "duracao_minutos": 60,
+      "fim_previsto": "2026-04-02T22:35:06.359423",
+      "concluida": false
+    },
+    {
+      "id": 2,
+      "inicio": "2026-04-03T17:46:28.448190",
+      "duracao_minutos": 50,
+      "fim_previsto": "2026-04-03T18:36:28.448190",
+      "concluida": false
+    },
+    {
+      "id": 3,
+      "inicio": "2026-04-03T20:42:07.052459",
+      "duracao_minutos": 25,
+      "fim_previsto": "2026-04-03T21:07:07.052459",
+      "concluida": false
+    },
+    {
+      "id": 4,
+      "inicio": "2026-04-06T10:43:50.009445",
+      "duracao_minutos": 143,
+      "fim_previsto": "2026-04-06T13:06:50.009445",
+      "concluida": false
+    },
+    {
+      "id": 5,
+      "inicio": "2026-04-07T14:18:57.776728",
+      "duracao_minutos": 120,
+      "fim_previsto": "2026-04-07T16:18:57.776728",
+      "concluida": false
+    },
+    {
+      "id": 6,
+      "inicio": "2026-04-09T19:57:41.660313",
+      "duracao_minutos": 25,
+      "fim_previsto": "2026-04-09T20:22:41.660313",
+      "concluida": false
+    },
+    {
+      "id": 7,
+      "inicio": "2026-04-10T11:08:51.200750",
+      "duracao_minutos": 240,
+      "fim_previsto": "2026-04-10T15:08:51.200750",
+      "concluida": false
+    },
+    {
+      "id": 8,
+      "inicio": "2026-04-10T16:17:45.206349",
+      "duracao_minutos": 25,
+      "fim_previsto": "2026-04-10T16:42:45.206349",
+      "concluida": false
+    },
+    {
+      "id": 9,
+      "inicio": "2026-04-12T13:38:01.036771+00:00",
+      "duracao_minutos": 274,
+      "fim_previsto": "2026-04-12T18:12:01.036771+00:00",
+      "concluida": false
+    },
+    {
+      "id": 10,
+      "inicio": "2026-04-13T10:57:10.172396+00:00",
+      "duracao_minutos": 123,
+      "fim_previsto": "2026-04-13T13:00:10.172396+00:00",
+      "concluida": false
+    },
+    {
+      "id": 11,
+      "inicio": "2026-04-13T10:58:26.217534+00:00",
+      "duracao_minutos": 25,
+      "fim_previsto": "2026-04-13T11:23:26.217534+00:00",
+      "concluida": false
+    }
+  ],
+  "bloqueados": [
+    "instagram.com",
+    "twitter.com",
+    "x.com",
+    "tiktok.com",
+    "facebook.com",
+    "reddit.com",
+    "9gag.com"
+  ],
+  "ativo": true,
+  "estatisticas": {
+    "total_sessoes": 11,
+    "tempo_total": 0.5
+  },
+  "sessao_atual": {
+    "id": 11,
+    "inicio": "2026-04-13T10:58:26.217534+00:00",
+    "duracao_minutos": 25,
+    "fim_previsto": "2026-04-13T11:23:26.217534+00:00",
+    "concluida": false
+  }
+}

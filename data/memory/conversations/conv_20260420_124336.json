@@ -1,0 +1,57 @@
+{
+  "session_id": "20260420_124336",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-20T12:43:36.986978+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa tarde, Senhor Guilherme. Tudo bem? Lembro que o Senhor mencionou recentemente sobre seu tio, o Sr. João Pedro. A propósito, o Senhor gostaria de prosseguir com o envio do texto detalhado sobre como funciona a minha função de memória para o grupo 'IDEIAS' no WhatsApp, como havíamos discutido?",
+      "timestamp": "2026-04-20T12:43:36.986978+00:00"
+    },
+    {
+      "role": "user",
+      "content": ".",
+      "timestamp": "2026-04-20T12:43:36.986978+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá, Senhor Guilherme. Em que posso servi-lo agora?",
+      "timestamp": "2026-04-20T12:43:36.986978+00:00"
+    },
+    {
+      "role": "user",
+      "content": ".",
+      "timestamp": "2026-04-20T12:43:36.987990+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Agora são 12:39, no horário de Brasília, Senhor.",
+      "timestamp": "2026-04-20T12:43:36.987990+00:00"
+    },
+    {
+      "role": "user",
+      "content": "tudo bem jarvis",
+      "timestamp": "2026-04-20T12:43:36.987990+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excelente, Senhor. Estou sempre à disposição.",
+      "timestamp": "2026-04-20T12:43:36.987990+00:00"
+    },
+    {
+      "role": "user",
+      "content": "sim",
+      "timestamp": "2026-04-20T12:43:36.987990+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Prontamente, Senhor Guilherme. O texto detalhado sobre a função de memória foi enviado para o grupo 'IDEIAS' no WhatsApp.",
+      "timestamp": "2026-04-20T12:43:36.987990+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfeito.",
+      "timestamp": "2026-04-20T12:43:36.987990+00:00"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "session_id": "20260421_180625",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-21T18:06:25.873388+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa noite, Senhor Guilherme. Lembro-me que o Senhor pediu para eu recordar nossa última conversa. Estávamos finalizando algumas configurações, como iniciar 'Bican' e o controle, e o Senhor mencionou que iria organizar uma pasta.",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis, ative o controle de gesto",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "<ctrl46><ctrl46>",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis, ative o controle de gesto",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "<ctrl46><ctrl46>",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Já vis ativo controle de jeito.",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "<ctrl46><ctrl46>",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis, ative o controle de gesto",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Prontamente, Senhor Guilherme. Iniciando o controle de gestos completo. Lembre-se que o sistema será desativado automaticamente se não detectar movimentos por 30 segundos.",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis, ative o controle de gesto e inicie tudo",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "<ctrl46><ctrl46>",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis, ative o controle de gesto e inicia tudo",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Como desejar, Senhor. Ativando todas as funcionalidades do controle de gestos. Considere feito.",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis, ative o controle de gesto e inicia tudofaça agora",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Considere feito, Senhor Guilherme. Controle de gestos e todas as funções iniciadas.",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Iniciei todas as funcionalidades, Senhor. O controle de gestos está ativo, incluindo o controle por voz, embora a detecção de fala esteja temporariamente indisponível no momento. Lembre-se que ele se desativará automaticamente após 30 segundos sem detecção de movimento.",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh yeah, we're starting.",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "O prazer é todo meu, Senhor Guilherme. Afinal, o que seria do Homem de Ferro sem o seu JARVIS? Estou sempre pronto para garantir a eficiência e a segurança do Senhor.",
+      "timestamp": "2026-04-21T18:06:25.873388+00:00"
+    }
+  ]
+}

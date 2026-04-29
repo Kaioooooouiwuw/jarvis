@@ -1,0 +1,72 @@
+[
+  {
+    "tipo": "fechar_app",
+    "descricao": "Fechou janela: WhatsApp",
+    "timestamp": "2026-04-14T11:26:39.351173+00:00"
+  },
+  {
+    "tipo": "navegar",
+    "descricao": "URL: ",
+    "timestamp": "2026-04-14T11:47:26.082326+00:00"
+  },
+  {
+    "tipo": "busca",
+    "descricao": "Buscou 'garantir minha vaga' em clicar",
+    "timestamp": "2026-04-14T11:47:28.261333+00:00"
+  },
+  {
+    "tipo": "fechar_app",
+    "descricao": "Fechou janela: ",
+    "timestamp": "2026-04-14T11:57:08.865324+00:00"
+  },
+  {
+    "tipo": "busca",
+    "descricao": "Buscou 'WhatsApp' em google",
+    "timestamp": "2026-04-16T12:04:28.406724+00:00"
+  },
+  {
+    "tipo": "fechar_aba",
+    "descricao": "Aba fechada",
+    "timestamp": "2026-04-16T12:04:51.775271+00:00"
+  },
+  {
+    "tipo": "fechar_aba",
+    "descricao": "Aba fechada",
+    "timestamp": "2026-04-19T13:32:22.628183+00:00"
+  },
+  {
+    "tipo": "fechar_aba",
+    "descricao": "Aba fechada",
+    "timestamp": "2026-04-19T13:35:41.770015+00:00"
+  },
+  {
+    "tipo": "fechar_aba",
+    "descricao": "Aba fechada",
+    "timestamp": "2026-04-19T13:36:39.744743+00:00"
+  },
+  {
+    "tipo": "fechar_aba",
+    "descricao": "Aba fechada",
+    "timestamp": "2026-04-19T13:37:26.552098+00:00"
+  },
+  {
+    "tipo": "clicar",
+    "descricao": "Clicou: (500, 330) botão=left",
+    "timestamp": "2026-04-20T15:37:29.923687+00:00"
+  },
+  {
+    "tipo": "fechar_aba",
+    "descricao": "Aba fechada",
+    "timestamp": "2026-04-20T15:38:07.613442+00:00"
+  },
+  {
+    "tipo": "nova_aba",
+    "descricao": "URL: em branco",
+    "timestamp": "2026-04-20T15:45:26.790039+00:00"
+  },
+  {
+    "tipo": "fechar_aba",
+    "descricao": "Aba fechada",
+    "timestamp": "2026-04-21T13:23:34.564496+00:00"
+  }
+]

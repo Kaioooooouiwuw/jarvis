@@ -1,0 +1,463 @@
+{
+  "monitoramento_ativo": true,
+  "ultimo_diagnostico": {
+    "timestamp": "2026-04-28T13:36:15.593200",
+    "saude": "✅ Saudável",
+    "rede": {
+      "latencia_ms": 50,
+      "jitter_ms": 2,
+      "perda_pacotes_pct": 0,
+      "status": "bom"
+    },
+    "dispositivo": {
+      "dispositivo_detectado": false,
+      "volume_sistema": -1,
+      "mudo": false,
+      "taxa_amostragem": "desconhecida",
+      "status": "erro_verificacao"
+    },
+    "processos": {
+      "processos_audio": [
+        "Edge (possível streaming)"
+      ],
+      "youtube_ativo": false,
+      "player_ativo": true,
+      "carga_cpu_audio": "desconhecida"
+    },
+    "buffer": {
+      "buffer_estimado_ms": 5000,
+      "suficiente": true,
+      "recomendacao": "Conexão estável. Buffer adequado."
+    },
+    "overflow": {
+      "overflow_detectado": false,
+      "audiodg_status": "erro: [WinError 2] O sistema não pode encontrar o arquivo especificado",
+      "cpu_audiodg": 0.0,
+      "detalhes": ""
+    },
+    "travamento": {
+      "travamento_detectado": false,
+      "processos_suspeitos": [],
+      "detalhes": ""
+    },
+    "problemas": []
+  },
+  "historico_problemas": [
+    {
+      "timestamp": "2026-04-02T22:04:44.439751",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:04:52.052364",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:04:54.233268",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:07:45.418678",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:07:47.491736",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:07:49.748080",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:12:48.977592",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:13:55.578482",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:13:57.700260",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:15:43.897580",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:32:56.339677",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:33:41.181310",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T22:41:10.572479",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T23:03:10.459862",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T23:18:29.105235",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T23:34:25.229503",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T23:34:27.783672",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-02T23:53:20.476218",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T00:40:19.994881",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T00:53:24.049616",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T00:53:25.829070",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T00:53:27.615197",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T00:53:29.422533",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T00:53:31.228800",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T00:53:34.016890",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T00:53:36.119871",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T02:41:25.316101",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T04:51:08.447040",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T05:30:36.472770",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T05:30:38.531005",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T06:48:57.930015",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T06:49:01.624015",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T08:37:34.664688",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T08:37:37.396957",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T08:37:41.234062",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T09:05:44.658414",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T09:54:59.260876",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T10:14:08.912937",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T10:14:10.793654",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T14:59:32.962101",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T15:03:45.841873",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T15:09:15.258324",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T15:09:17.017855",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T15:13:35.153786",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T15:14:43.024389",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T15:14:48.843948",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T15:17:20.968585",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede (tentativa 2/3)"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-03T15:18:56.264743",
+      "tipo": "auto_rede",
+      "acoes": [
+        "Auto-correção: rede (tentativa 2/3)"
+      ],
+      "automatica": true
+    },
+    {
+      "timestamp": "2026-04-06T18:58:56.279237",
+      "tipo": "streaming",
+      "acoes": [
+        "⚠️ Erro ao ajustar volume: 'AudioDevice' object has no attribute 'Activate'",
+        "⚠️ Nenhum vídeo YouTube encontrado para reiniciar"
+      ],
+      "automatica": false
+    },
+    {
+      "timestamp": "2026-04-12T17:44:28.981747",
+      "tipo": "streaming",
+      "acoes": [
+        "⚠️ Erro ao ajustar volume: 'AudioDevice' object has no attribute 'Activate'",
+        "⚠️ Nenhum vídeo YouTube encontrado para reiniciar"
+      ],
+      "automatica": false
+    }
+  ],
+  "correcoes_aplicadas": 175,
+  "config": {
+    "intervalo_check_segundos": 5,
+    "max_latencia_ms": 200,
+    "min_velocidade_mbps": 2.0,
+    "buffer_recomendado_ms": 3000,
+    "tentativas_correcao_max": 3,
+    "fontes_alternativas": [
+      "Spotify Web (open.spotify.com)",
+      "SoundCloud (soundcloud.com)",
+      "Deezer (deezer.com)",
+      "YouTube Music (music.youtube.com)"
+    ]
+  }
+}

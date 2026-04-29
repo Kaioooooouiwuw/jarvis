@@ -1,0 +1,37 @@
+{
+  "session_id": "20260422_182804",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-22T18:28:04.232874+00:00",
+  "mensagens": [
+    {
+      "role": "user",
+      "content": "<noise>",
+      "timestamp": "2026-04-22T18:28:04.232874+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Boa noite, Senhor Guilherme.",
+      "timestamp": "2026-04-22T18:28:04.232874+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "que o Senhor mencionou \"trava do guarda\" em nossa última conversa. Como posso ajudar hoje, Senhor? Está pensando em ativar o controle de gestos ou organizar alguma pasta?",
+      "timestamp": "2026-04-22T18:28:04.232874+00:00"
+    },
+    {
+      "role": "user",
+      "content": ".",
+      "timestamp": "2026-04-22T18:28:04.232874+00:00"
+    },
+    {
+      "role": "user",
+      "content": ".",
+      "timestamp": "2026-04-22T18:28:04.232874+00:00"
+    },
+    {
+      "role": "user",
+      "content": "<noise>",
+      "timestamp": "2026-04-22T18:28:04.232874+00:00"
+    }
+  ]
+}

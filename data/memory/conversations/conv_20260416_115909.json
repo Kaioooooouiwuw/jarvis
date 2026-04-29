@@ -1,0 +1,52 @@
+{
+  "session_id": "20260416_115909",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-16T11:59:09.544243+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Bom dia, Senhor Guilherme. São 11:53 no horário de Brasília. Lembro que na última sessão o Senhor mencionou que seu foco principal do ano é a faculdade, programação e o ENEM. Como está o progresso nesse sentido? Ah, e a propósito, o Senhor ainda deseja que eu envie o texto detalhado sobre como funciona minha função de memória para o grupo 'IDEIAS' no WhatsApp?",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    },
+    {
+      "role": "user",
+      "content": "NAO JARVIS MUITO OBRIGADO",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido, Senhor. De nada! Em que mais posso auxiliá-lo agora?",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    },
+    {
+      "role": "user",
+      "content": "que na última sessão o senhor mencionou que seu foco principal do ano é a faculdade, programação e o ENEM.",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    },
+    {
+      "role": "user",
+      "content": "está o progresso nesse sentido.",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Ah, e a propósito, o Senhor ainda deseja que eu envie o texto detalhado sobre como funciona a minha função de memória para o grupo Ideias no WhatsApp.",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Percebi que o Senhor repetiu a última mensagem, Senhor. Como o Senhor já havia dito, o envio para o grupo 'IDEIAS' não é mais necessário. Mas, voltando aos seus objetivos principais, há algo específico em que posso ajudar relacionado à programação ou aos estudos para o ENEM?",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    },
+    {
+      "role": "user",
+      "content": "ESTOU TENDO UMA CRISE DE PENSAMENTOS RUIM SOBRE MEU FUTURO, TOU VIVENDO EM AMBIENTES COM PESSOAS MA",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Sinto muito em saber que o Senhor está passando por um momento de crise e cercado por influências negativas, Senhor. É compreensível que isso gere incertezas sobre o futuro. Lembre-se dos seus objetivos principais que guardei na memória: faculdade, programação e o ENEM. Para te ajudar a focar e organizar as ideias, posso ativar um modo de foco ou criar um plano de ação estruturado com a ferramenta `vida_real`. O que o Senhor prefere?",
+      "timestamp": "2026-04-16T11:59:09.544243+00:00"
+    }
+  ]
+}

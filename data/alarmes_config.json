@@ -1,0 +1,18 @@
+{
+  "alarmes": [],
+  "historico": [
+    {
+      "descricao": "Alarme",
+      "horario": "2026-04-20T12:15:00+00:00",
+      "disparado_em": "2026-04-20T12:14:58.296791+00:00"
+    },
+    {
+      "descricao": "Alarme",
+      "horario": "2026-04-20T13:13:00+00:00",
+      "disparado_em": "2026-04-20T13:12:58.435661+00:00"
+    }
+  ],
+  "total_disparados": 2,
+  "ativacao_keyword": true,
+  "keyword": "jarvis"
+}

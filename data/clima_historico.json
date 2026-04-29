@@ -1,0 +1,42 @@
+{
+  "consultas_clima": [
+    {
+      "cidade": "Recife",
+      "temp": 29.49,
+      "descricao": "Nublado",
+      "timestamp": "2026-04-20T12:09:44.504999"
+    },
+    {
+      "cidade": "Itambé",
+      "temp": 28.65,
+      "descricao": "Nublado",
+      "timestamp": "2026-04-20T12:10:15.539546"
+    },
+    {
+      "cidade": "Itambé",
+      "temp": 29.46,
+      "descricao": "Nuvens dispersas",
+      "timestamp": "2026-04-20T13:10:27.121896"
+    },
+    {
+      "cidade": "Itambé",
+      "temp": 29.87,
+      "descricao": "Nuvens dispersas",
+      "timestamp": "2026-04-20T14:06:53.943510"
+    },
+    {
+      "cidade": "Itambé",
+      "temp": 22.53,
+      "descricao": "Céu limpo",
+      "timestamp": "2026-04-20T18:57:05.491832"
+    },
+    {
+      "cidade": "São Paulo",
+      "temp": 17.92,
+      "descricao": "Céu limpo",
+      "timestamp": "2026-04-20T23:40:34.520542"
+    }
+  ],
+  "consultas_rota": [],
+  "total_consultas": 6
+}

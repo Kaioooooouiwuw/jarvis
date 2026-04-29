@@ -1,0 +1,160 @@
+{
+  "ultimo_comodo": "quarto",
+  "ultimo_dispositivo": "volume",
+  "ultima_intencao": "desconhecida",
+  "historico": [
+    {
+      "intencao": "memorizar",
+      "slots": {
+        "acao": "lembrar",
+        "dispositivo": "ar_condicionado",
+        "comodo": "quarto"
+      },
+      "timestamp": "2026-04-28T05:49:33.124011+00:00"
+    },
+    {
+      "intencao": "controlar_luz",
+      "slots": {
+        "acao": "desligar",
+        "comodo": "quarto",
+        "dispositivo": "luz"
+      },
+      "timestamp": "2026-04-28T05:50:24.133724+00:00"
+    },
+    {
+      "intencao": "controlar_luz",
+      "slots": {
+        "acao": "diminuir",
+        "intensidade": 25,
+        "comodo": "quarto",
+        "dispositivo": "luz"
+      },
+      "timestamp": "2026-04-28T05:50:24.136464+00:00"
+    },
+    {
+      "intencao": "controlar_musica",
+      "slots": {
+        "acao": "ligar",
+        "dispositivo": "musica",
+        "intensidade": 25,
+        "alvo": "musica baixa",
+        "comodo": "quarto"
+      },
+      "timestamp": "2026-04-28T05:50:24.137447+00:00"
+    },
+    {
+      "intencao": "controlar_volume",
+      "slots": {
+        "dispositivo": "volume",
+        "intensidade": 100,
+        "comodo": "quarto"
+      },
+      "timestamp": "2026-04-28T05:50:24.143952+00:00"
+    },
+    {
+      "intencao": "abrir_aplicativo",
+      "slots": {
+        "acao": "ligar",
+        "dispositivo": "musica",
+        "alvo": "spotify",
+        "comodo": "quarto"
+      },
+      "timestamp": "2026-04-28T05:50:24.145458+00:00"
+    },
+    {
+      "intencao": "controlar_volume",
+      "slots": {
+        "acao": "aumentar",
+        "dispositivo": "volume",
+        "comodo": "quarto"
+      },
+      "timestamp": "2026-04-28T05:50:24.146466+00:00"
+    },
+    {
+      "intencao": "enviar_mensagem",
+      "slots": {
+        "acao": "enviar",
+        "alvo": "pro guilherme no whatsapp",
+        "comodo": "quarto",
+        "dispositivo": "volume"
+      },
+      "timestamp": "2026-04-28T05:50:24.146971+00:00"
+    },
+    {
+      "intencao": "memorizar",
+      "slots": {
+        "acao": "lembrar",
+        "comodo": "quarto",
+        "dispositivo": "volume"
+      },
+      "timestamp": "2026-04-28T05:50:24.147976+00:00"
+    },
+    {
+      "intencao": "abrir_aplicativo",
+      "slots": {},
+      "timestamp": "2026-04-28T06:28:36.035162+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {},
+      "timestamp": "2026-04-28T12:03:48.060010+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {},
+      "timestamp": "2026-04-28T12:07:59.836592+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {
+        "comodo": "quarto",
+        "dispositivo": "volume"
+      },
+      "timestamp": "2026-04-28T12:08:20.338220+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {},
+      "timestamp": "2026-04-28T12:36:18.846605+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {
+        "comodo": "quarto",
+        "dispositivo": "volume"
+      },
+      "timestamp": "2026-04-28T12:38:15.571514+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {
+        "comodo": "quarto",
+        "dispositivo": "volume"
+      },
+      "timestamp": "2026-04-28T12:38:54.094960+00:00"
+    },
+    {
+      "intencao": "controlar_temperatura",
+      "slots": {
+        "comodo": "quarto",
+        "dispositivo": "volume"
+      },
+      "timestamp": "2026-04-28T12:40:07.085242+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {},
+      "timestamp": "2026-04-28T12:53:33.825586+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {},
+      "timestamp": "2026-04-28T20:43:28.649894+00:00"
+    },
+    {
+      "intencao": "desconhecida",
+      "slots": {},
+      "timestamp": "2026-04-28T20:48:36.945282+00:00"
+    }
+  ]
+}

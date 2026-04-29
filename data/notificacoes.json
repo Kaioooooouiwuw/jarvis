@@ -1,0 +1,16 @@
+{
+  "ativas": [],
+  "historico": [],
+  "config": {
+    "monitorar_ativo": true,
+    "aplicativos_filtrados": [
+      "WhatsApp",
+      "Telegram",
+      "Discord",
+      "Gmail",
+      "Outlook"
+    ],
+    "max_historico": 100,
+    "tempo_limite_notificacao": 300
+  }
+}

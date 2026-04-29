@@ -1,0 +1,47 @@
+{
+  "respostas_recentes": [],
+  "contatos_conhecidos": {},
+  "respostas_predefinidas": {
+    "boa_noite": [
+      "Boa noite! 😊 Durma bem!",
+      "Boa noite! Tenha uma ótima noite de sono!",
+      "Boa noite! Até amanhã!",
+      "Boa noite! Descanse bastante!"
+    ],
+    "bom_dia": [
+      "Bom dia! ☀️ Tenha um ótimo dia!",
+      "Bom dia! Que seu dia seja maravilhoso!",
+      "Bom dia! Excelente dia!",
+      "Bom dia! Um abraço!"
+    ],
+    "boa_tarde": [
+      "Boa tarde! ☀️",
+      "Boa tarde! Tenha uma ótima tarde!",
+      "Boa tarde!"
+    ],
+    "como_vai": [
+      "Estou bem, obrigado! E você?",
+      "Tudo ótimo por aqui! E com você?",
+      "Estou ótimo! Espero que esteja bem também!",
+      "Tudo bem! Como vai você?"
+    ],
+    "tudo_bem": [
+      "Tudo bem! E você?",
+      "Tudo ótimo! E você está bem?",
+      "Sim, tudo bem! Espero que esteja tudo certo aí!",
+      "Tudo bem! Como está?"
+    ],
+    "obrigado": [
+      "De nada! 😊",
+      "Por nada! Se precisar, pode contar!",
+      "Imagina! Sempre que precisar!",
+      "De nada! Um prazer ajudar!"
+    ],
+    "default": [
+      "Recebi sua mensagem! Em breve respondo.",
+      "Obrigado pela mensagem! Já vou responder.",
+      "Recebido! Em breve te dou um retorno.",
+      "Mensagem recebida! Já vou ver isso."
+    ]
+  }
+}

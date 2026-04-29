@@ -1,0 +1,42 @@
+{
+  "session_id": "20260428_063345",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-28T06:33:45.574752+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "<ctrl46><ctrl46>",
+      "timestamp": "2026-04-28T06:33:45.575258+00:00"
+    },
+    {
+      "role": "user",
+      "content": "um sim para estar fechando também a execução.",
+      "timestamp": "2026-04-28T06:33:45.575258+00:00"
+    },
+    {
+      "role": "user",
+      "content": "O queremos fazer agora é estar iniciando aqui nossos Javis.bite, certo?",
+      "timestamp": "2026-04-28T06:33:45.575258+00:00"
+    },
+    {
+      "role": "user",
+      "content": "e eu vou vir aqui também no nosso layout no agente start. O meu joguei na mesma post, mas o vocês aí provavelmente vai estar na aposta separada.",
+      "timestamp": "2026-04-28T06:33:45.575258+00:00"
+    },
+    {
+      "role": "user",
+      "content": "depende do projeto de vocês e vou estar iniciando o JavaS Front também.",
+      "timestamp": "2026-04-28T06:33:45.575258+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Na última aula tinha jogado na hora de trabalho, mas eu para",
+      "timestamp": "2026-04-28T06:33:45.575258+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido, Senhor Guilherme. Parece que está iniciando os componentes do seu projeto, certo? `jarvis.py`, o layout `agent start` e o Jarvis Front. Precisa de ajuda para abrir o VS Code ou executar alguma parte específica?",
+      "timestamp": "2026-04-28T06:33:45.575258+00:00"
+    }
+  ]
+}

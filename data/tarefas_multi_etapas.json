@@ -1,0 +1,148 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Definição de arquitetura inicial, seleção de frameworks Python para IA e agentes, e planejamento das etapas de desenvolvimento.",
+      "criada_em": "2026-04-09T20:05:50.577261",
+      "etapas": [
+        {
+          "titulo": "Análise",
+          "descricao": "Entender: Definição de arquitetura inicial, seleção de frameworks Python para IA e agentes, e planejamento das etapas de desenvolvimento.",
+          "tipo": "planejamento",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Planejamento",
+          "descricao": "Criar plano detalhado",
+          "tipo": "planejamento",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Execução",
+          "descricao": "Implementar solução",
+          "tipo": "automatico",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Verificação",
+          "descricao": "Conferir resultado",
+          "tipo": "debug",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Correção",
+          "descricao": "Ajustar problemas",
+          "tipo": "debug",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Entrega",
+          "descricao": "Finalizar e documentar",
+          "tipo": "manual",
+          "status": "pendente"
+        }
+      ],
+      "status": "em_andamento",
+      "etapa_atual": 0,
+      "log": []
+    },
+    {
+      "id": 2,
+      "descricao": "Gerar e analisar ideias de produtos de alto lucro para a Elytron, focando em soluções de faturamento e desenvolvimento de sistemas, e criar um plano de negócios inicial.",
+      "criada_em": "2026-04-09T20:17:01.050860",
+      "etapas": [
+        {
+          "titulo": "Requisitos",
+          "descricao": "Definir escopo e features",
+          "tipo": "planejamento",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Backend",
+          "descricao": "API completa",
+          "tipo": "gerar_projeto",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Frontend",
+          "descricao": "Interface de usuário",
+          "tipo": "gerar_projeto",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Integração",
+          "descricao": "Conectar front + back",
+          "tipo": "gerar_projeto",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Auth & Pagamento",
+          "descricao": "Login + billing",
+          "tipo": "gerar_projeto",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Testes",
+          "descricao": "E2E + unitários",
+          "tipo": "debug",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Deploy",
+          "descricao": "Produção + CI/CD",
+          "tipo": "manual",
+          "status": "pendente"
+        }
+      ],
+      "status": "em_andamento",
+      "etapa_atual": 0,
+      "log": []
+    },
+    {
+      "id": 3,
+      "descricao": "Monitorar quarto via câmera assim que for ligada. Se detectar pessoa, solicitar a retirada imediatamente.",
+      "criada_em": "2026-04-13T20:43:55.298099+00:00",
+      "etapas": [
+        {
+          "titulo": "Análise",
+          "descricao": "Entender: Monitorar quarto via câmera assim que for ligada. Se detectar pessoa, solicitar a retirada imediatamente.",
+          "tipo": "planejamento",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Planejamento",
+          "descricao": "Criar plano detalhado",
+          "tipo": "planejamento",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Execução",
+          "descricao": "Implementar solução",
+          "tipo": "automatico",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Verificação",
+          "descricao": "Conferir resultado",
+          "tipo": "debug",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Correção",
+          "descricao": "Ajustar problemas",
+          "tipo": "debug",
+          "status": "pendente"
+        },
+        {
+          "titulo": "Entrega",
+          "descricao": "Finalizar e documentar",
+          "tipo": "manual",
+          "status": "pendente"
+        }
+      ],
+      "status": "em_andamento",
+      "etapa_atual": 0,
+      "log": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "plugins": [
+    {
+      "nome": "opencv-python mediapipe pyautogui",
+      "descricao": "",
+      "arquivo": "C:\\Users\\round\\Downloads\\GIDEON 3\\data\\plugins\\opencv-python mediapipe pyautogui.py",
+      "instalado_em": "2026-04-01T09:03:25.294950",
+      "ativo": true
+    },
+    {
+      "nome": "DiagnosticoAutonomo",
+      "descricao": "Módulo de diagnóstico autônomo e correção preditiva baseado em IA para antecipar e corrigir falhas de sistema.",
+      "arquivo": "C:\\Users\\round\\Downloads\\GIDEON 3\\data\\plugins\\DiagnosticoAutonomo.py",
+      "instalado_em": "2026-04-06T10:37:19.064224",
+      "ativo": true,
+      "execucoes": 0
+    }
+  ]
+}

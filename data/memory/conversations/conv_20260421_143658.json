@@ -1,0 +1,22 @@
+{
+  "session_id": "20260421_143658",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-21T14:36:58.367267+00:00",
+  "mensagens": [
+    {
+      "role": "assistant",
+      "content": "Boa tarde, Senhor Guilherme. Lembro-me que na nossa última conversa o senhor mencionou que iria ao parque hoje à noite; como foi?\n\nTambém guardei na memória que seu tio se chama João Pedro e o ID permanente da lâmpada do quarto, para que possa controlá-la facilmente.\n\nEm que posso auxiliá-lo agora, Senhor?",
+      "timestamp": "2026-04-21T14:36:58.367267+00:00"
+    },
+    {
+      "role": "user",
+      "content": "iniciar Bican e inici controle de",
+      "timestamp": "2026-04-21T14:36:58.367267+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendido, Senhor. Iniciei o controle por gestos para o senhor. O sistema de reconhecimento de voz para essa função está temporariamente indisponível, mas os gestos estão",
+      "timestamp": "2026-04-21T14:36:58.367267+00:00"
+    }
+  ]
+}

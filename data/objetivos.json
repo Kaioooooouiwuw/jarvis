@@ -1,0 +1,47 @@
+{
+  "objetivos": [
+    {
+      "id": 1,
+      "objetivo": "Desenvolver e integrar novas funcionalidades no sistema ROBEN, garantindo evolução e otimização.",
+      "criado_em": "2026-04-03T20:42:53.879633",
+      "prazo": "2026-04-04T20:42:53.879633",
+      "prazo_dias": 1,
+      "plano": [
+        {
+          "etapa": "Pesquisar: Desenvolver e integrar novas funcionalidades no sistema ROBEN, garantindo evolução e otimização.",
+          "prazo": "3 dias",
+          "status": "pendente"
+        },
+        {
+          "etapa": "Criar plano detalhado",
+          "prazo": "3 dias",
+          "status": "pendente"
+        },
+        {
+          "etapa": "Executar primeira fase",
+          "prazo": "14 dias",
+          "status": "pendente"
+        },
+        {
+          "etapa": "Avaliar resultados",
+          "prazo": "3 dias",
+          "status": "pendente"
+        },
+        {
+          "etapa": "Ajustar estratégia",
+          "prazo": "7 dias",
+          "status": "pendente"
+        },
+        {
+          "etapa": "Escalar",
+          "prazo": "30 dias",
+          "status": "pendente"
+        }
+      ],
+      "progresso": 0,
+      "aprendizados": [],
+      "evolucoes": [],
+      "ativo": true
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "session_id": "20260428_124145",
+  "user_id": "Guilherme",
+  "inicio": "2026-04-28T12:41:45.438286+00:00",
+  "mensagens": [
+    {
+      "role": "user",
+      "content": "e aí então",
+      "timestamp": "2026-04-28T12:41:45.438286+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá, Senhor Guilherme. Lembro que hoje mais cedo, por volta das 12:28, o senhor mencionou seus planos. A propósito, o senhor me pediu para guardar na memória que 'Irei ao parque hoje a noite'. Está tudo conforme o planejado? Como posso te auxiliar agora?",
+      "timestamp": "2026-04-28T12:41:45.438286+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Ja, ich habe.",
+      "timestamp": "2026-04-28T12:41:45.438286+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Sim, Senhor. Em que posso servi-lo?",
+      "timestamp": "2026-04-28T12:41:45.438286+00:00"
+    },
+    {
+      "role": "user",
+      "content": "いや いや す 。",
+      "timestamp": "2026-04-28T12:41:45.438286+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perdão, Senhor Guilherme, não consegui interpretar corretamente. O senhor poderia especificar o que deseja? Lembro que estávamos configurando o volume e o contexto do quarto. Como posso ajudar?",
+      "timestamp": "2026-04-28T12:41:45.438286+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yaycak.",
+      "timestamp": "2026-04-28T12:41:45.438286+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Ainda não consegui compreender, Senhor Guilherme. Poderia reformular o comando, por favor? O contexto ainda está direcionado para o volume no quarto.",
+      "timestamp": "2026-04-28T12:41:45.439836+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Ja, ich habe schon.",
+      "timestamp": "2026-04-28T12:41:45.439836+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Compreendido. Se houver algo que eu possa fazer, é só chamar. Estou à disposição, Senhor Guilherme.",
+      "timestamp": "2026-04-28T12:41:45.439836+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Já vis deixando do quarto branco.",
+      "timestamp": "2026-04-28T12:41:45.439836+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Já vís deixa luita o quarto branca com o branco forte.",
+      "timestamp": "2026-04-28T12:41:45.439836+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Como desejar, Senhor. A luz do quarto está branca e com o brilho máximo, 100%.",
+      "timestamp": "2026-04-28T12:41:45.439836+00:00"
+    }
+  ]
+}
